@@ -13,7 +13,7 @@ namespace EnviarEmails
             // ---DESTINATÁRIOS----
             string emails = "EMAIL_DO(S)_DESTINATÁRIO(S)"; // ---OBSERVAÇÃO: SEPARAR EMAILS COM ','---
 
-            string[] email = emails.Split(' ');
+            string[] email = emails.Split(',');
 
             // ---TITULO E MENSAGEM DO EMAIL ---
             Console.Write("Título do email: ");
