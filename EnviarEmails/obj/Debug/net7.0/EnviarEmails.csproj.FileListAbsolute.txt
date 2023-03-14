@@ -1,0 +1,15 @@
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\obj\Debug\net7.0\EnviarEmails.csproj.AssemblyReference.cache
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\obj\Debug\net7.0\EnviarEmails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\obj\Debug\net7.0\EnviarEmails.AssemblyInfoInputs.cache
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\obj\Debug\net7.0\EnviarEmails.AssemblyInfo.cs
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\obj\Debug\net7.0\EnviarEmails.csproj.CoreCompileInputs.cache
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\bin\Debug\net7.0\EnviarEmails.exe
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\bin\Debug\net7.0\EnviarEmails.deps.json
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\bin\Debug\net7.0\EnviarEmails.runtimeconfig.json
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\bin\Debug\net7.0\EnviarEmails.dll
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\bin\Debug\net7.0\EnviarEmails.pdb
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\obj\Debug\net7.0\EnviarEmails.dll
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\obj\Debug\net7.0\refint\EnviarEmails.dll
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\obj\Debug\net7.0\EnviarEmails.pdb
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\obj\Debug\net7.0\EnviarEmails.genruntimeconfig.cache
+C:\Users\DudsS\Desktop\PASTA E\ESTUDOS PROGRAMAÇÃO\C#\PROJETOS - ESTUDOS\EnviarEmails\EnviarEmails\obj\Debug\net7.0\ref\EnviarEmails.dll
